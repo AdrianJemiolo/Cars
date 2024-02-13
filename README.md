@@ -1,1 +1,2 @@
 # Cars
+# Project Cars is a desktop application, written in Visual Studio . The project contains two forms and a class. Each time, we create a Car object by providing the appropriate information to the textbox fields. The object is then saved to a list, from where it goes to the listbox and to a file. We can select objects in the listbox and by clicking on the show details button we can see detailed information about the selected car and calculate how many liters of fuel the car will burn after covering a certain number of kilometers.
