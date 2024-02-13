@@ -1,0 +1,12 @@
+C:\Users\gonia\Desktop\Github\Cars\bin\Debug\AdrianJemiolo09.02.exe.config
+C:\Users\gonia\Desktop\Github\Cars\bin\Debug\AdrianJemiolo09.02.exe
+C:\Users\gonia\Desktop\Github\Cars\bin\Debug\AdrianJemiolo09.02.pdb
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\Cars.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\AdrianJemiolo09._02.Details.resources
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\AdrianJemiolo09._02.Form1.resources
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\AdrianJemiolo09._02.Properties.Resources.resources
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\AdrianJemiolo09.02.exe
+C:\Users\gonia\Desktop\Github\Cars\obj\Debug\AdrianJemiolo09.02.pdb

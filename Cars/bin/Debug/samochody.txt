@@ -1,0 +1,4 @@
+marka: Fiat, rocznik 2005, kolor: Czewrwony, przebieg: 2000 km, spalanie(na 100 km) 10l
+marka: Fiat, rocznik 2020, kolor: czarny, przebieg: 20000 km, spalanie(na 100 km) 6l
+marka: Opel, rocznik 2021, kolor: srebrny, przebieg: 10000 km, spalanie(na 100 km) 8l
+marka: fiat, rocznik 2021, kolor: czarny, przebieg: 20000 km, spalanie(na 100 km) 8l

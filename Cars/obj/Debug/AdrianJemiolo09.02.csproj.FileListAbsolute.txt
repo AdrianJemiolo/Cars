@@ -1,0 +1,12 @@
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\bin\Debug\AdrianJemiolo09.02.exe.config
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\bin\Debug\AdrianJemiolo09.02.exe
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\bin\Debug\AdrianJemiolo09.02.pdb
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.csproj.AssemblyReference.cache
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09._02.Form1.resources
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09._02.Properties.Resources.resources
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.csproj.GenerateResource.cache
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.csproj.CoreCompileInputs.cache
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.exe
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09.02.pdb
+C:\Users\Programowanie\Desktop\AdrianJemiolo09.02\obj\Debug\AdrianJemiolo09._02.Details.resources
